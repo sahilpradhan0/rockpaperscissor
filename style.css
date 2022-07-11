@@ -13,7 +13,7 @@ body{
     min-height: 80vh;
     /* border: 4px solid black; */
     /* border: 4px solid rgb(254, 250, 243); */
-    margin-top: 9%;
+    margin-top: 15%;
     box-shadow: 5px 2px 5px 5px rgb(254, 250, 243);
 }
 .up{
@@ -119,8 +119,5 @@ h1{
         font-size: 1.3rem;
         margin-top: 15px;
     }
-    .game{
-        position: relative;
-        top: 50%;
-    }
+    
 }
